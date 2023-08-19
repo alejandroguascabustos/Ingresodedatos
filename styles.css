@@ -5,7 +5,12 @@ body {
     font-family: 'Tektur', cursive;
     position: relative;
     zoom: 140%;
-    
+}
+
+.scroll
+{
+     overflow-x:scroll;
+     overflow-y:hidden;
 }
 
 .contenedor{
