@@ -1,17 +1,18 @@
 body {
     background-color: rgb(36, 3, 63);
+    background-size: 100px 200px; 
     color: white;
     font-family: 'Tektur', cursive;
     position: relative;
+    zoom: 140%;
     
 }
-
 
 .contenedor{
     display: grid;
     justify-content: center;
     text-align: center;
-    margin-top: 10  %;
+    margin-top: 10%;
 }
 
 
